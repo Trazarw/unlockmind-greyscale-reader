@@ -12,12 +12,12 @@ Percentual 2D Array Visualization
 new ConsleDisplayScaleArray(array2D.Value, array2D.Height, array2D.Width);
 ```
 
-Examples ( WIP )
+Examples
 
 ![alt text](https://i.ibb.co/1LJfnsc/0rb.png)
 
-![alt text](https://ibb.co/g3QcZqB)
+![alt text](https://i.ibb.co/xDwrq9R/2bn.png)
 
-![alt text](https://ibb.co/PgMkDyN)
+![alt text](https://i.ibb.co/GR9mHD0/rbface.png)
 
 
