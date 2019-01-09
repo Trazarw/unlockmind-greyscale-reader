@@ -9,7 +9,7 @@ var array2D = new Greyscale2DArray(@"C:\Users\enisn\Desktop\NN\2.png");
 
 Percentual 2D Array Visualization
 ```c#
-var array2D = new Greyscale2DArray(@"C:\Users\enisn\Desktop\NN\2.png");
+new ConsleDisplayScaleArray(array2D.Value, array2D.Height, array2D.Width);
 ```
 
 Examples ( WIP )
