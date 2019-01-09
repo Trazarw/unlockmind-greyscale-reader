@@ -14,10 +14,10 @@ new ConsleDisplayScaleArray(array2D.Value, array2D.Height, array2D.Width);
 
 Examples ( WIP )
 
-![alt text]()
+![alt text](https://ibb.co/XbkZ4yH)
 
-![alt text]()
+![alt text](https://ibb.co/g3QcZqB)
 
-![alt text]()
+![alt text](https://ibb.co/PgMkDyN)
 
 
