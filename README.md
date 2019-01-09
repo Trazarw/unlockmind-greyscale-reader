@@ -13,7 +13,7 @@ var array2D = new Greyscale2DArray(@"C:\Users\enisn\Desktop\NN\2.png");
 ```
 
 Examples
-![alt text](https://imgbb.com/"><img src="https://i.ibb.co/Kb73kqV/0.png)
+![alt text](https://i.ibb.co/Kb73kqV/0.png)
 
 
 
