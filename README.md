@@ -12,8 +12,12 @@ Percentual 2D Array Visualization
 var array2D = new Greyscale2DArray(@"C:\Users\enisn\Desktop\NN\2.png");
 ```
 
-Examples
-![alt text](https://i.ibb.co/Kb73kqV/0.png)
+Examples ( WIP )
 
+![alt text]()
+
+![alt text]()
+
+![alt text]()
 
 
